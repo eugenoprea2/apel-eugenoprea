@@ -1,44 +1,156 @@
 {
   "data": {
-    "total": 1038.98,
-    "currency": "RON",
-    "country_id": 1,
-    "country": "RO",
-    "source": "mobile app",
-    "is_swipe": false,
-    "author": "procesare.automata",
-    "customer": {
-      "eos_id": 373597,
-      "corporate": false,
-      "type": 0,
-      "email": "madalinaene83@yahoo.com",
-      "name": "Madalina Sima",
-      "phones": [
-        "0727114381",
-        "",
-        ""
-      ],
-      "company": {
-        "name": "madalina sima",
-        "fiscal_code": "",
-        "registration_number": "",
-        "bank_account": "",
-        "id": 611157
+    "customers": [
+      {
+        "phones": [
+          "0741260832",
+          "",
+          ""
+        ],
+        "email": "antohieugen@yahoo.com",
+        "name": "Eugen Antohi",
+        "id": 31010,
+        "segmentation": "Silver",
+        "orders": [
+          {
+            "date": "2018-04-10T10:43:47Z",
+            "delivery_mode": "Showroom Iasi",
+            "payment_mode": "CARD online",
+            "id": 43691382,
+            "contact_person": "Eugen Antohi",
+            "products": [
+              "HDD WD Blue 2TB, 5400rpm, 64MB cache, SATA III",
+              "Discount conform promotie: Promo 05.04.2018"
+            ]
+          }
+        ]
       },
-      "id": 509073,
-      "segmentation": "Bronze",
-      "balance": 0,
-      "total_orders": 6,
-      "total_orders_dfdl": "5"
-    },
-    "modified_at": "2018-03-05T20:05:25",
-    "has_mkt_products": true,
-    "eos_customer_id": 373597,
-    "previous_author": "",
-    "id": "42691061",
-    "status_id": 12,
-    "status_name": "Finished",
-    "date": "2018-03-05T15:05:33",
-    "reverse_vat": "Not eligible"
+      {
+        "phones": [
+          "0741756048",
+          "",
+          ""
+        ],
+        "email": "gligaeugen@yahoo.com",
+        "name": "FREQUENTIS ROM\u00c2NIA SRL",
+        "id": 394883,
+        "segmentation": "Bronze",
+        "orders": [
+          {
+            "date": "2018-04-10T10:43:41Z",
+            "delivery_mode": "",
+            "payment_mode": "Ordin de Plata",
+            "id": 43691378,
+            "contact_person": "Eugen Lucian Gliga",
+            "products": [
+              "Casti cu microfon Microsoft LifeChat LX-3000, USB, Negru",
+              "Discount conform promotie: promo microsoft",
+              "Monitor LED IPS Dell UltraSharp 24\", WUXGA, VGA, DVI, DisplayPort, Alb, U2412M",
+              "Discount conform promotie: U2412M-WHT-05",
+              "Baterie Duracell Turbo Max AAK8, R6, 8 buc"
+            ]
+          }
+        ]
+      },
+      {
+        "phones": [
+          "0744526880",
+          "",
+          ""
+        ],
+        "email": "eugenia.gutulescu@yahoo.com",
+        "name": "Gutulescu Eugenia",
+        "id": 3150382,
+        "segmentation": "Silver",
+        "orders": [
+          {
+            "date": "2018-04-10T10:42:36Z",
+            "delivery_mode": "CURIER RO",
+            "payment_mode": "RAMBURS",
+            "id": 43691337,
+            "contact_person": "Gutulescu Eugenia",
+            "products": [
+              "Masina de spalat rufe Bosch WLK24261BY SLIM, 6 kg, 1200 RPM, Clasa A+++, Alb",
+              "Discount conform promotie: WLK24261BY"
+            ]
+          }
+        ]
+      },
+      
+      {
+        "phones": [
+          "0740830595",
+          "",
+          ""
+        ],
+        "email": "eugentraian@yahoo.com",
+        "name": "Damian Eugen",
+        "id": 1918700,
+        "segmentation": "Bronze",
+        "orders": [
+          {
+            "date": "2018-04-10T10:26:22Z",
+            "delivery_mode": "CURIER RO",
+            "payment_mode": "RAMBURS",
+            "id": 2016725521,
+            "contact_person": "Damian Eugen",
+            "products": [
+              "Set oale inox cu capac sticla Kring Solaris, 6 piese, 3.2 litri, 6.3 litri si 10.25 litri",
+              "Discount conform promotie: 6426228020691"
+            ]
+          }
+        ]
+      },
+     
+      {
+        "phones": [
+          "0723386790",
+          "",
+          ""
+        ],
+        "email": "myxro@yahoo.com",
+        "name": "Tudor Eugen Petru",
+        "id": 107555,
+        "segmentation": "Bronze",
+        "orders": [
+          {
+            "date": "2018-04-10T10:07:38Z",
+            "delivery_mode": "Showroom Titan",
+            "payment_mode": "Numerar",
+            "id": 2016725405,
+            "contact_person": "Tudor Eugen Petru",
+            "products": [
+              "HDD extern Seagate Expansion 3TB, 3.5\", USB 3.0, Negru",
+              "Apa de Toaleta Carolina Herrera Chic, Barbati, 100ml",
+              "Discount conform promotie: 8411061311608",
+              "Discount conform promotie: 8411061311608"
+            ]
+          }
+        ]
+      },
+      {
+        "phones": [
+          "0742030939",
+          "",
+          ""
+        ],
+        "email": "eugen_cloamba@yahoo.com",
+        "name": "Cloamba Eugen Marian",
+        "id": 2294189,
+        "segmentation": "Bronze",
+        "orders": [
+          {
+            "date": "2018-04-10T10:04:37Z",
+            "delivery_mode": "",
+            "payment_mode": "RAMBURS",
+            "id": 43689877,
+            "contact_person": "Cloamba Eugen",
+            "products": [
+              "Asigurare RCA Asirom"
+            ]
+          }
+        ]
+      }
+    ]
   }
 }
